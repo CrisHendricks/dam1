@@ -6,6 +6,6 @@ public class EjemploGit {
         
         System.out.println("hola");
         System.out.println("Alejandro Virlan");
-        System.out.println("Si La ChriStiNa Te vaSilaH, tu Te CaLLah i Lo AsiMilaH");
+       
     }
 }
